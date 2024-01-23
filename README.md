@@ -15,3 +15,7 @@
 ## 🔗 Links
 - Link do Site Hospedado pelo GitHub Pages: https://beatrizrodrgss.github.io/landingpage-starwars-vs-startrek/
 
+  ## Imagem do Site já Hospedado:
+  ![readme.landing](images/readme.landing.png)
+
+
