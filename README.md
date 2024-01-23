@@ -14,6 +14,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@qa.beatrizrodrigues) 
 ## 🔗 Links
 - Link do Site Hospedado pelo GitHub Pages: https://beatrizrodrgss.github.io/landingpage-starwars-vs-startrek/
+- Ainda não possui uma responsividade acertiva para teste em mobile.
 
   ## Imagem do Site já Hospedado:
   ![readme.landing](images/readme.landing.png)
